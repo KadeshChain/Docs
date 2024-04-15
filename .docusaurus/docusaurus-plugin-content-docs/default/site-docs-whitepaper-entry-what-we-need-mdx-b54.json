@@ -1,0 +1,27 @@
+{
+  "id": "whitepaper/Entry/WhatWeNeed",
+  "title": "What We Need",
+  "description": "",
+  "source": "@site/docs/whitepaper/Entry/WhatWeNeed.mdx",
+  "sourceDirName": "whitepaper/Entry",
+  "slug": "/whitepaper/Entry/WhatWeNeed",
+  "permalink": "/docs/whitepaper/Entry/WhatWeNeed",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "What We Need"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/whitepaper/Entry/Introduction"
+  },
+  "next": {
+    "title": "Chain",
+    "permalink": "/docs/Chain/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "whitepaper/Features/KadeshChain",
+  "title": "Kadesh Chain",
+  "description": "",
+  "source": "@site/docs/whitepaper/Features/KadeshChain.md",
+  "sourceDirName": "whitepaper/Features",
+  "slug": "/whitepaper/Features/KadeshChain",
+  "permalink": "/docs/whitepaper/Features/KadeshChain",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Kadesh Chain",
+    "description": ""
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Kadesh Box",
+    "permalink": "/docs/whitepaper/Features/KadeshBox"
+  },
+  "next": {
+    "title": "Kadesh Wallet",
+    "permalink": "/docs/whitepaper/Features/KadeshWallet"
+  }
+}

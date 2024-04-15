@@ -1,0 +1,19 @@
+{
+  "id": "Chain/test",
+  "title": "test",
+  "description": "",
+  "source": "@site/docs/Chain/test.md",
+  "sourceDirName": "Chain",
+  "slug": "/Chain/test",
+  "permalink": "/docs/Chain/test",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Disclaimer",
+    "permalink": "/docs/whitepaper/Legal/Disclaimer"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "Overview",
+  "title": "Overview",
+  "description": "",
+  "source": "@site/docs/Overview.md",
+  "sourceDirName": ".",
+  "slug": "/Overview",
+  "permalink": "/docs/Overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Overview",
+    "description": ""
+  },
+  "sidebar": "docsSidebar",
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/whitepaper/Entry/Introduction"
+  }
+}

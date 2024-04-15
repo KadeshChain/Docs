@@ -1,0 +1,27 @@
+{
+  "id": "whitepaper/Token/TokenEmission",
+  "title": "Token Emission",
+  "description": "",
+  "source": "@site/docs/whitepaper/Token/TokenEmission.mdx",
+  "sourceDirName": "whitepaper/Token",
+  "slug": "/whitepaper/Token/TokenEmission",
+  "permalink": "/docs/whitepaper/Token/TokenEmission",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Token Emission"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Token Allocation",
+    "permalink": "/docs/whitepaper/Token/TokenAllocation"
+  },
+  "next": {
+    "title": "Monetization",
+    "permalink": "/docs/whitepaper/Revenue Model/Monetization"
+  }
+}

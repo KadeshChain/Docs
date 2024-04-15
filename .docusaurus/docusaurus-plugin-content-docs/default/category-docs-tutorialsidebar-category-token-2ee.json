@@ -1,0 +1,16 @@
+{
+  "title": "Token",
+  "description": " ",
+  "slug": "/category/token",
+  "permalink": "/docs/category/token",
+  "navigation": {
+    "previous": {
+      "title": "Kadesh Wallet",
+      "permalink": "/docs/whitepaper/Features/KadeshWallet"
+    },
+    "next": {
+      "title": "KDS Token",
+      "permalink": "/docs/whitepaper/Token/KDSToken"
+    }
+  }
+}

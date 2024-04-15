@@ -1,0 +1,16 @@
+{
+  "title": "References",
+  "description": " ",
+  "slug": "/category/references",
+  "permalink": "/docs/category/references",
+  "navigation": {
+    "previous": {
+      "title": "Resumes",
+      "permalink": "/docs/whitepaper/Team/Resumes"
+    },
+    "next": {
+      "title": "Web App",
+      "permalink": "/docs/whitepaper/References/WebApp"
+    }
+  }
+}

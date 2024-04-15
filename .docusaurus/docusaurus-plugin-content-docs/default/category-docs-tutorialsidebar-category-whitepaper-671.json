@@ -1,0 +1,12 @@
+{
+  "title": "whitepaper",
+  "description": " ",
+  "slug": "/category/whitepaper",
+  "permalink": "/docs/category/whitepaper",
+  "navigation": {
+    "next": {
+      "title": "Entry",
+      "permalink": "/docs/category/entry"
+    }
+  }
+}

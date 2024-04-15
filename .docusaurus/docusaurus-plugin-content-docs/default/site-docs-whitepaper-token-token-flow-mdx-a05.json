@@ -1,0 +1,27 @@
+{
+  "id": "whitepaper/Token/TokenFlow",
+  "title": "Token Flow",
+  "description": "",
+  "source": "@site/docs/whitepaper/Token/TokenFlow.mdx",
+  "sourceDirName": "whitepaper/Token",
+  "slug": "/whitepaper/Token/TokenFlow",
+  "permalink": "/docs/whitepaper/Token/TokenFlow",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Token Flow"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Token Utility",
+    "permalink": "/docs/whitepaper/Token/TokenUtility"
+  },
+  "next": {
+    "title": "Token Allocation",
+    "permalink": "/docs/whitepaper/Token/TokenAllocation"
+  }
+}

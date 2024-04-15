@@ -1,0 +1,26 @@
+{
+  "id": "whitepaper/Team/exp copy",
+  "title": "exp",
+  "description": "",
+  "source": "@site/docs/whitepaper/Team/exp copy.md",
+  "sourceDirName": "whitepaper/Team",
+  "slug": "/whitepaper/Team/exp copy",
+  "permalink": "/docs/whitepaper/Team/exp copy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Roadmap",
+    "permalink": "/docs/whitepaper/Roadmap/"
+  },
+  "next": {
+    "title": "exp",
+    "permalink": "/docs/whitepaper/Team/exp"
+  }
+}

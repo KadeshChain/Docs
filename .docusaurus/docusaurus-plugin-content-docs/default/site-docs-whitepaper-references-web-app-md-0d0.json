@@ -1,0 +1,28 @@
+{
+  "id": "whitepaper/References/WebApp",
+  "title": "Web App",
+  "description": "",
+  "source": "@site/docs/whitepaper/References/WebApp.md",
+  "sourceDirName": "whitepaper/References",
+  "slug": "/whitepaper/References/WebApp",
+  "permalink": "/docs/whitepaper/References/WebApp",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Web App",
+    "description": ""
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Resumes",
+    "permalink": "/docs/whitepaper/Team/Resumes"
+  },
+  "next": {
+    "title": "Mobile App",
+    "permalink": "/docs/whitepaper/References/MobileApp"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Overview",
+  "description": " ",
+  "slug": "/category/overview",
+  "permalink": "/docs/category/overview",
+  "navigation": {
+    "previous": {
+      "title": "Monetization",
+      "permalink": "/docs/whitepaper/Revenue Model/Monetization"
+    },
+    "next": {
+      "title": "Target Markets",
+      "permalink": "/docs/whitepaper/Overview/TargetMarkets"
+    }
+  }
+}

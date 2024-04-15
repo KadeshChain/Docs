@@ -1,0 +1,28 @@
+{
+  "id": "whitepaper/Market Info/TargetMarkets",
+  "title": "Target Markets",
+  "description": "",
+  "source": "@site/docs/whitepaper/Market Info/TargetMarkets.md",
+  "sourceDirName": "whitepaper/Market Info",
+  "slug": "/whitepaper/Market Info/TargetMarkets",
+  "permalink": "/docs/whitepaper/Market Info/TargetMarkets",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Target Markets",
+    "description": ""
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Monetization",
+    "permalink": "/docs/whitepaper/Revenue Model/Monetization"
+  },
+  "next": {
+    "title": "Competitors",
+    "permalink": "/docs/whitepaper/Market Info/Competitors"
+  }
+}

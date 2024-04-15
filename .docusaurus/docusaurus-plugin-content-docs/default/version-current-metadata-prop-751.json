@@ -1,0 +1,384 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "docsSidebar": [
+      {
+        "type": "link",
+        "label": "Overview",
+        "href": "/docs/Overview",
+        "docId": "Overview",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Whitepaper",
+        "items": [
+          {
+            "type": "category",
+            "label": "Entry",
+            "items": [
+              {
+                "type": "link",
+                "label": "Introduction",
+                "href": "/docs/whitepaper/Entry/Introduction",
+                "docId": "whitepaper/Entry/Introduction",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "What We Need",
+                "href": "/docs/whitepaper/Entry/WhatWeNeed",
+                "docId": "whitepaper/Entry/WhatWeNeed",
+                "unlisted": false
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true
+          },
+          {
+            "type": "category",
+            "label": "Features",
+            "items": [
+              {
+                "type": "link",
+                "label": "Biometric Smart Contract",
+                "href": "/docs/whitepaper/Features/BiometricSmartContract",
+                "docId": "whitepaper/Features/BiometricSmartContract",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Kadesh Will",
+                "href": "/docs/whitepaper/Features/KadeshWill",
+                "docId": "whitepaper/Features/KadeshWill",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Kadesh Box",
+                "href": "/docs/whitepaper/Features/KadeshBox",
+                "docId": "whitepaper/Features/KadeshBox",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Kadesh Chain",
+                "href": "/docs/whitepaper/Features/KadeshChain",
+                "docId": "whitepaper/Features/KadeshChain",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Kadesh Wallet",
+                "href": "/docs/whitepaper/Features/KadeshWallet",
+                "docId": "whitepaper/Features/KadeshWallet",
+                "unlisted": false
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true
+          },
+          {
+            "type": "category",
+            "label": "Token",
+            "items": [
+              {
+                "type": "link",
+                "label": "KDS Token",
+                "href": "/docs/whitepaper/Token/KDSToken",
+                "docId": "whitepaper/Token/KDSToken",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Token Utility",
+                "href": "/docs/whitepaper/Token/TokenUtility",
+                "docId": "whitepaper/Token/TokenUtility",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Token Flow",
+                "href": "/docs/whitepaper/Token/TokenFlow",
+                "docId": "whitepaper/Token/TokenFlow",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Token Allocation",
+                "href": "/docs/whitepaper/Token/TokenAllocation",
+                "docId": "whitepaper/Token/TokenAllocation",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Token Emission",
+                "href": "/docs/whitepaper/Token/TokenEmission",
+                "docId": "whitepaper/Token/TokenEmission",
+                "unlisted": false
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true
+          },
+          {
+            "type": "category",
+            "label": "Revenue Model",
+            "items": [
+              {
+                "type": "link",
+                "label": "Monetization",
+                "href": "/docs/whitepaper/Revenue Model/Monetization",
+                "docId": "whitepaper/Revenue Model/Monetization",
+                "unlisted": false
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true
+          },
+          {
+            "type": "category",
+            "label": "Market Info",
+            "items": [
+              {
+                "type": "link",
+                "label": "Target Markets",
+                "href": "/docs/whitepaper/Market Info/TargetMarkets",
+                "docId": "whitepaper/Market Info/TargetMarkets",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Competitors",
+                "href": "/docs/whitepaper/Market Info/Competitors",
+                "docId": "whitepaper/Market Info/Competitors",
+                "unlisted": false
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true
+          },
+          {
+            "type": "link",
+            "label": "Roadmap",
+            "href": "/docs/whitepaper/Roadmap/",
+            "docId": "whitepaper/Roadmap/Roadmap",
+            "unlisted": false
+          },
+          {
+            "type": "category",
+            "label": "Team",
+            "items": [
+              {
+                "type": "link",
+                "label": "Core Team",
+                "href": "/docs/whitepaper/Team/CoreTeam",
+                "docId": "whitepaper/Team/CoreTeam",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Resumes",
+                "href": "/docs/whitepaper/Team/Resumes",
+                "docId": "whitepaper/Team/Resumes",
+                "unlisted": false
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true
+          },
+          {
+            "type": "category",
+            "label": "References",
+            "items": [
+              {
+                "type": "link",
+                "label": "Web App",
+                "href": "/docs/whitepaper/References/WebApp",
+                "docId": "whitepaper/References/WebApp",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Mobile App",
+                "href": "/docs/whitepaper/References/MobileApp",
+                "docId": "whitepaper/References/MobileApp",
+                "unlisted": false
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true
+          },
+          {
+            "type": "category",
+            "label": "Legal",
+            "items": [
+              {
+                "type": "link",
+                "label": "Disclaimer",
+                "href": "/docs/whitepaper/Legal/Disclaimer",
+                "docId": "whitepaper/Legal/Disclaimer",
+                "unlisted": false
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "link",
+        "label": "Chain",
+        "href": "/docs/Chain"
+      }
+    ]
+  },
+  "docs": {
+    "Chain/Chain": {
+      "id": "Chain/Chain",
+      "title": "Chain",
+      "description": ""
+    },
+    "Overview": {
+      "id": "Overview",
+      "title": "Overview",
+      "description": "",
+      "sidebar": "docsSidebar"
+    },
+    "whitepaper/Entry/Introduction": {
+      "id": "whitepaper/Entry/Introduction",
+      "title": "Introduction",
+      "description": "",
+      "sidebar": "docsSidebar"
+    },
+    "whitepaper/Entry/WhatWeNeed": {
+      "id": "whitepaper/Entry/WhatWeNeed",
+      "title": "What We Need",
+      "description": "",
+      "sidebar": "docsSidebar"
+    },
+    "whitepaper/Features/BiometricSmartContract": {
+      "id": "whitepaper/Features/BiometricSmartContract",
+      "title": "Biometric Smart Contract",
+      "description": "",
+      "sidebar": "docsSidebar"
+    },
+    "whitepaper/Features/KadeshBox": {
+      "id": "whitepaper/Features/KadeshBox",
+      "title": "Kadesh Box",
+      "description": "",
+      "sidebar": "docsSidebar"
+    },
+    "whitepaper/Features/KadeshChain": {
+      "id": "whitepaper/Features/KadeshChain",
+      "title": "Kadesh Chain",
+      "description": "",
+      "sidebar": "docsSidebar"
+    },
+    "whitepaper/Features/KadeshWallet": {
+      "id": "whitepaper/Features/KadeshWallet",
+      "title": "Kadesh Wallet",
+      "description": "",
+      "sidebar": "docsSidebar"
+    },
+    "whitepaper/Features/KadeshWill": {
+      "id": "whitepaper/Features/KadeshWill",
+      "title": "Kadesh Will",
+      "description": "",
+      "sidebar": "docsSidebar"
+    },
+    "whitepaper/Legal/Disclaimer": {
+      "id": "whitepaper/Legal/Disclaimer",
+      "title": "Disclaimer",
+      "description": "",
+      "sidebar": "docsSidebar"
+    },
+    "whitepaper/Market Info/Competitors": {
+      "id": "whitepaper/Market Info/Competitors",
+      "title": "Competitors",
+      "description": "",
+      "sidebar": "docsSidebar"
+    },
+    "whitepaper/Market Info/TargetMarkets": {
+      "id": "whitepaper/Market Info/TargetMarkets",
+      "title": "Target Markets",
+      "description": "",
+      "sidebar": "docsSidebar"
+    },
+    "whitepaper/References/MobileApp": {
+      "id": "whitepaper/References/MobileApp",
+      "title": "Mobile App",
+      "description": "",
+      "sidebar": "docsSidebar"
+    },
+    "whitepaper/References/WebApp": {
+      "id": "whitepaper/References/WebApp",
+      "title": "Web App",
+      "description": "",
+      "sidebar": "docsSidebar"
+    },
+    "whitepaper/Revenue Model/Monetization": {
+      "id": "whitepaper/Revenue Model/Monetization",
+      "title": "Monetization",
+      "description": "",
+      "sidebar": "docsSidebar"
+    },
+    "whitepaper/Roadmap/Roadmap": {
+      "id": "whitepaper/Roadmap/Roadmap",
+      "title": "Roadmap",
+      "description": "",
+      "sidebar": "docsSidebar"
+    },
+    "whitepaper/Team/CoreTeam": {
+      "id": "whitepaper/Team/CoreTeam",
+      "title": "Core Team",
+      "description": "",
+      "sidebar": "docsSidebar"
+    },
+    "whitepaper/Team/Resumes": {
+      "id": "whitepaper/Team/Resumes",
+      "title": "Resumes",
+      "description": "",
+      "sidebar": "docsSidebar"
+    },
+    "whitepaper/Token/KDSToken": {
+      "id": "whitepaper/Token/KDSToken",
+      "title": "KDS Token",
+      "description": "",
+      "sidebar": "docsSidebar"
+    },
+    "whitepaper/Token/TokenAllocation": {
+      "id": "whitepaper/Token/TokenAllocation",
+      "title": "Token Allocation",
+      "description": "",
+      "sidebar": "docsSidebar"
+    },
+    "whitepaper/Token/TokenEmission": {
+      "id": "whitepaper/Token/TokenEmission",
+      "title": "Token Emission",
+      "description": "",
+      "sidebar": "docsSidebar"
+    },
+    "whitepaper/Token/TokenFlow": {
+      "id": "whitepaper/Token/TokenFlow",
+      "title": "Token Flow",
+      "description": "",
+      "sidebar": "docsSidebar"
+    },
+    "whitepaper/Token/TokenUtility": {
+      "id": "whitepaper/Token/TokenUtility",
+      "title": "Token Utility",
+      "description": "",
+      "sidebar": "docsSidebar"
+    }
+  }
+}

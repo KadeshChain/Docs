@@ -1,0 +1,23 @@
+{
+  "id": "whitepaper/Entry/introduction",
+  "title": "introduction",
+  "description": "",
+  "source": "@site/docs/whitepaper/Entry/introduction.md",
+  "sourceDirName": "whitepaper/Entry",
+  "slug": "/whitepaper/Entry/introduction",
+  "permalink": "/docs/whitepaper/Entry/introduction",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Entry",
+    "permalink": "/docs/category/entry"
+  },
+  "next": {
+    "title": "Tutorial Intro",
+    "permalink": "/docs/intro"
+  }
+}

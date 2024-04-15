@@ -1,0 +1,16 @@
+{
+  "title": "Legal",
+  "description": " ",
+  "slug": "/category/legal",
+  "permalink": "/docs/category/legal",
+  "navigation": {
+    "previous": {
+      "title": "Mobile App",
+      "permalink": "/docs/whitepaper/References/MobileApp"
+    },
+    "next": {
+      "title": "Disclaimer",
+      "permalink": "/docs/whitepaper/Legal/Disclaimer"
+    }
+  }
+}

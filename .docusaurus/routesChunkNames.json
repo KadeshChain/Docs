@@ -1,0 +1,122 @@
+{
+  "/docs/Chain-6c0": {
+    "__comp": "f0ad3fbb",
+    "__context": {
+      "plugin": "9cb3a6cd"
+    },
+    "specProps": "8e51ef77",
+    "layoutProps": "b81388fc"
+  },
+  "/docs-4bc": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "7d1844eb"
+    }
+  },
+  "/docs-6f0": {
+    "__comp": "a7bd4aaa",
+    "version": "935f2afb"
+  },
+  "/docs-310": {
+    "__comp": "a94703ab"
+  },
+  "/docs/Chain/-ca5": {
+    "__comp": "17896441",
+    "content": "7caff9d2"
+  },
+  "/docs/Overview-3e8": {
+    "__comp": "17896441",
+    "content": "cbc3190d"
+  },
+  "/docs/whitepaper/Entry/Introduction-41d": {
+    "__comp": "17896441",
+    "content": "382001f0"
+  },
+  "/docs/whitepaper/Entry/WhatWeNeed-644": {
+    "__comp": "17896441",
+    "content": "ef847b85"
+  },
+  "/docs/whitepaper/Features/BiometricSmartContract-f6e": {
+    "__comp": "17896441",
+    "content": "23431d62"
+  },
+  "/docs/whitepaper/Features/KadeshBox-3d2": {
+    "__comp": "17896441",
+    "content": "f471b681"
+  },
+  "/docs/whitepaper/Features/KadeshChain-e28": {
+    "__comp": "17896441",
+    "content": "041ac91c"
+  },
+  "/docs/whitepaper/Features/KadeshWallet-ee5": {
+    "__comp": "17896441",
+    "content": "33e706f8"
+  },
+  "/docs/whitepaper/Features/KadeshWill-aad": {
+    "__comp": "17896441",
+    "content": "a7951709"
+  },
+  "/docs/whitepaper/Legal/Disclaimer-bb5": {
+    "__comp": "17896441",
+    "content": "b7b68f85"
+  },
+  "/docs/whitepaper/Market Info/Competitors-bcc": {
+    "__comp": "17896441",
+    "content": "18eccd19"
+  },
+  "/docs/whitepaper/Market Info/TargetMarkets-8fb": {
+    "__comp": "17896441",
+    "content": "e845397b"
+  },
+  "/docs/whitepaper/References/MobileApp-f45": {
+    "__comp": "17896441",
+    "content": "1ab632fc"
+  },
+  "/docs/whitepaper/References/WebApp-2a3": {
+    "__comp": "17896441",
+    "content": "0d09c7e1"
+  },
+  "/docs/whitepaper/Revenue Model/Monetization-bfc": {
+    "__comp": "17896441",
+    "content": "e775686d"
+  },
+  "/docs/whitepaper/Roadmap/-548": {
+    "__comp": "17896441",
+    "content": "12955421"
+  },
+  "/docs/whitepaper/Team/CoreTeam-e37": {
+    "__comp": "17896441",
+    "content": "766cea61"
+  },
+  "/docs/whitepaper/Team/Resumes-467": {
+    "__comp": "17896441",
+    "content": "93fbab0a"
+  },
+  "/docs/whitepaper/Token/KDSToken-77d": {
+    "__comp": "17896441",
+    "content": "6070d855"
+  },
+  "/docs/whitepaper/Token/TokenAllocation-8d2": {
+    "__comp": "17896441",
+    "content": "63394c17"
+  },
+  "/docs/whitepaper/Token/TokenEmission-d7c": {
+    "__comp": "17896441",
+    "content": "02e0c9e9"
+  },
+  "/docs/whitepaper/Token/TokenFlow-7d6": {
+    "__comp": "17896441",
+    "content": "7d527048"
+  },
+  "/docs/whitepaper/Token/TokenUtility-2dc": {
+    "__comp": "17896441",
+    "content": "55ee2983"
+  },
+  "/-5f6": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "10de2891"
+    },
+    "config": "5e9f5e1a"
+  }
+}

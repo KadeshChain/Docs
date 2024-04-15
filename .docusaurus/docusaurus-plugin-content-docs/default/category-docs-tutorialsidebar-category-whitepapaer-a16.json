@@ -1,0 +1,12 @@
+{
+  "title": "Whitepapaer",
+  "description": " ",
+  "slug": "/category/whitepapaer",
+  "permalink": "/docs/category/whitepapaer",
+  "navigation": {
+    "next": {
+      "title": "Entry",
+      "permalink": "/docs/category/entry"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Chain/ChainRedirect",
+  "title": "Chain",
+  "description": "",
+  "source": "@site/docs/Chain/ChainRedirect.mdx",
+  "sourceDirName": "Chain",
+  "slug": "/Chain/ChainRedirect",
+  "permalink": "/docs/Chain/ChainRedirect",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Chain"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Disclaimer",
+    "permalink": "/docs/whitepaper/Legal/Disclaimer"
+  }
+}

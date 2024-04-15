@@ -1,0 +1,16 @@
+{
+  "title": "Features",
+  "description": " ",
+  "slug": "/category/features",
+  "permalink": "/docs/category/features",
+  "navigation": {
+    "previous": {
+      "title": "What We Need",
+      "permalink": "/docs/whitepaper/Entry/WhatWeNeed"
+    },
+    "next": {
+      "title": "Biometric Smart Contract",
+      "permalink": "/docs/whitepaper/Features/BiometricSmartContract"
+    }
+  }
+}

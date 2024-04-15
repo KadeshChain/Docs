@@ -1,0 +1,27 @@
+{
+  "id": "whitepaper/Token/TokenUtility",
+  "title": "Token Utility",
+  "description": "",
+  "source": "@site/docs/whitepaper/Token/TokenUtility.mdx",
+  "sourceDirName": "whitepaper/Token",
+  "slug": "/whitepaper/Token/TokenUtility",
+  "permalink": "/docs/whitepaper/Token/TokenUtility",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Token Utility"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "KDS Token",
+    "permalink": "/docs/whitepaper/Token/KDSToken"
+  },
+  "next": {
+    "title": "Token Flow",
+    "permalink": "/docs/whitepaper/Token/TokenFlow"
+  }
+}

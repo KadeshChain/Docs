@@ -1,0 +1,27 @@
+{
+  "id": "whitepaper/Token/TokenAllocation",
+  "title": "Token Allocation",
+  "description": "",
+  "source": "@site/docs/whitepaper/Token/TokenAllocation.mdx",
+  "sourceDirName": "whitepaper/Token",
+  "slug": "/whitepaper/Token/TokenAllocation",
+  "permalink": "/docs/whitepaper/Token/TokenAllocation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Token Allocation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Token Flow",
+    "permalink": "/docs/whitepaper/Token/TokenFlow"
+  },
+  "next": {
+    "title": "Token Emission",
+    "permalink": "/docs/whitepaper/Token/TokenEmission"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "whitepaper/Overview/TargetMarkets",
+  "title": "Target Markets",
+  "description": "",
+  "source": "@site/docs/whitepaper/Overview/TargetMarkets.mdx",
+  "sourceDirName": "whitepaper/Overview",
+  "slug": "/whitepaper/Overview/TargetMarkets",
+  "permalink": "/docs/whitepaper/Overview/TargetMarkets",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Target Markets"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kadesh Wallet",
+    "permalink": "/docs/whitepaper/Features/KadeshWallet"
+  },
+  "next": {
+    "title": "Competitors",
+    "permalink": "/docs/whitepaper/Overview/Competitors"
+  }
+}

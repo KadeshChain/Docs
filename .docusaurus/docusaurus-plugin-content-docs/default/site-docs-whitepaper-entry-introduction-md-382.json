@@ -1,0 +1,28 @@
+{
+  "id": "whitepaper/Entry/Introduction",
+  "title": "Introduction",
+  "description": "",
+  "source": "@site/docs/whitepaper/Entry/Introduction.md",
+  "sourceDirName": "whitepaper/Entry",
+  "slug": "/whitepaper/Entry/Introduction",
+  "permalink": "/docs/whitepaper/Entry/Introduction",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Introduction",
+    "description": ""
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/Overview"
+  },
+  "next": {
+    "title": "What We Need",
+    "permalink": "/docs/whitepaper/Entry/WhatWeNeed"
+  }
+}

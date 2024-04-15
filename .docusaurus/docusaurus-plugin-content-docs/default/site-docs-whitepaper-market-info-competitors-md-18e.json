@@ -1,0 +1,28 @@
+{
+  "id": "whitepaper/Market Info/Competitors",
+  "title": "Competitors",
+  "description": "",
+  "source": "@site/docs/whitepaper/Market Info/Competitors.md",
+  "sourceDirName": "whitepaper/Market Info",
+  "slug": "/whitepaper/Market Info/Competitors",
+  "permalink": "/docs/whitepaper/Market Info/Competitors",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Competitors",
+    "description": ""
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Target Markets",
+    "permalink": "/docs/whitepaper/Market Info/TargetMarkets"
+  },
+  "next": {
+    "title": "Roadmap",
+    "permalink": "/docs/whitepaper/Roadmap/"
+  }
+}

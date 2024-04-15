@@ -1,0 +1,16 @@
+{
+  "title": "Revenue Model",
+  "description": " ",
+  "slug": "/category/revenue-model",
+  "permalink": "/docs/category/revenue-model",
+  "navigation": {
+    "previous": {
+      "title": "Token Emission",
+      "permalink": "/docs/whitepaper/Token/TokenEmission"
+    },
+    "next": {
+      "title": "Monetization",
+      "permalink": "/docs/whitepaper/Revenue Model/Monetization"
+    }
+  }
+}

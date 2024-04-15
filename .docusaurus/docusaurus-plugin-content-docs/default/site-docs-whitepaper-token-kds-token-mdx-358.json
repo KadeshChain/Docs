@@ -1,0 +1,27 @@
+{
+  "id": "whitepaper/Token/KDSToken",
+  "title": "KDS Token",
+  "description": "",
+  "source": "@site/docs/whitepaper/Token/KDSToken.mdx",
+  "sourceDirName": "whitepaper/Token",
+  "slug": "/whitepaper/Token/KDSToken",
+  "permalink": "/docs/whitepaper/Token/KDSToken",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "KDS Token"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kadesh Wallet",
+    "permalink": "/docs/whitepaper/Features/KadeshWallet"
+  },
+  "next": {
+    "title": "Token Utility",
+    "permalink": "/docs/whitepaper/Token/TokenUtility"
+  }
+}

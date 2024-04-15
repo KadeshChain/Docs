@@ -1,0 +1,12 @@
+{
+  "title": " ",
+  "description": " ",
+  "slug": "/category/-",
+  "permalink": "/docs/category/-",
+  "navigation": {
+    "next": {
+      "title": "Entry",
+      "permalink": "/docs/category/entry"
+    }
+  }
+}

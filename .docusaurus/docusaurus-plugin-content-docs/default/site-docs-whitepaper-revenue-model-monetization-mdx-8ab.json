@@ -1,0 +1,27 @@
+{
+  "id": "whitepaper/Revenue Model/Monetization",
+  "title": "Monetization",
+  "description": "",
+  "source": "@site/docs/whitepaper/Revenue Model/Monetization.mdx",
+  "sourceDirName": "whitepaper/Revenue Model",
+  "slug": "/whitepaper/Revenue Model/Monetization",
+  "permalink": "/docs/whitepaper/Revenue Model/Monetization",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Monetization"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kadesh Wallet",
+    "permalink": "/docs/whitepaper/Features/KadeshWallet"
+  },
+  "next": {
+    "title": "Target Markets",
+    "permalink": "/docs/whitepaper/Overview/TargetMarkets"
+  }
+}

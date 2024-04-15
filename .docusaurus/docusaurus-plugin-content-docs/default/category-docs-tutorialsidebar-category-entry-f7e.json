@@ -1,0 +1,16 @@
+{
+  "title": "Entry",
+  "description": " ",
+  "slug": "/category/entry",
+  "permalink": "/docs/category/entry",
+  "navigation": {
+    "previous": {
+      "title": "Whitepapaer",
+      "permalink": "/docs/category/whitepapaer"
+    },
+    "next": {
+      "title": "Introduction",
+      "permalink": "/docs/whitepaper/Entry/Introduction"
+    }
+  }
+}

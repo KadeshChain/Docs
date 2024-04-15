@@ -1,0 +1,16 @@
+{
+  "title": "Team",
+  "description": " ",
+  "slug": "/category/team",
+  "permalink": "/docs/category/team",
+  "navigation": {
+    "previous": {
+      "title": "Roadmap",
+      "permalink": "/docs/whitepaper/Roadmap/"
+    },
+    "next": {
+      "title": "Core Team",
+      "permalink": "/docs/whitepaper/Team/CoreTeam"
+    }
+  }
+}

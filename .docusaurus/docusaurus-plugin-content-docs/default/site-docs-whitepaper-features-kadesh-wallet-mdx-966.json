@@ -1,0 +1,27 @@
+{
+  "id": "whitepaper/Features/KadeshWallet",
+  "title": "Kadesh Wallet",
+  "description": "",
+  "source": "@site/docs/whitepaper/Features/KadeshWallet.mdx",
+  "sourceDirName": "whitepaper/Features",
+  "slug": "/whitepaper/Features/KadeshWallet",
+  "permalink": "/docs/whitepaper/Features/KadeshWallet",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Kadesh Wallet"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kadesh Chain",
+    "permalink": "/docs/whitepaper/Features/KadeshChain"
+  },
+  "next": {
+    "title": "Chain",
+    "permalink": "/docs/Chain/"
+  }
+}

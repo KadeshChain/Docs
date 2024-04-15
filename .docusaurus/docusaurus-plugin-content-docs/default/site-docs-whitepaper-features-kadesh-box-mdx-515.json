@@ -1,0 +1,27 @@
+{
+  "id": "whitepaper/Features/KadeshBox",
+  "title": "Kadesh Box",
+  "description": "",
+  "source": "@site/docs/whitepaper/Features/KadeshBox.mdx",
+  "sourceDirName": "whitepaper/Features",
+  "slug": "/whitepaper/Features/KadeshBox",
+  "permalink": "/docs/whitepaper/Features/KadeshBox",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Kadesh Box"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kadesh Will",
+    "permalink": "/docs/whitepaper/Features/KadeshWill"
+  },
+  "next": {
+    "title": "Kadesh Chain",
+    "permalink": "/docs/whitepaper/Features/KadeshChain"
+  }
+}

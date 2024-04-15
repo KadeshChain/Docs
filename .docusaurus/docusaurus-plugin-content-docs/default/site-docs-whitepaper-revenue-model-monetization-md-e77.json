@@ -1,0 +1,28 @@
+{
+  "id": "whitepaper/Revenue Model/Monetization",
+  "title": "Monetization",
+  "description": "",
+  "source": "@site/docs/whitepaper/Revenue Model/Monetization.md",
+  "sourceDirName": "whitepaper/Revenue Model",
+  "slug": "/whitepaper/Revenue Model/Monetization",
+  "permalink": "/docs/whitepaper/Revenue Model/Monetization",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Monetization",
+    "description": ""
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Token Emission",
+    "permalink": "/docs/whitepaper/Token/TokenEmission"
+  },
+  "next": {
+    "title": "Target Markets",
+    "permalink": "/docs/whitepaper/Market Info/TargetMarkets"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "whitepaper/Features/exp copy 2",
+  "title": "exp",
+  "description": "",
+  "source": "@site/docs/whitepaper/Features/exp copy 2.md",
+  "sourceDirName": "whitepaper/Features",
+  "slug": "/whitepaper/Features/exp copy 2",
+  "permalink": "/docs/whitepaper/Features/exp copy 2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Biometric Smart Contract",
+    "permalink": "/docs/whitepaper/Features/BiometricSmartContract"
+  },
+  "next": {
+    "title": "exp",
+    "permalink": "/docs/whitepaper/Features/exp copy 3"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "whitepaper/markdown-features",
+  "title": "Markdown Features",
+  "description": "Docusaurus supports Markdown and a few additional features.",
+  "source": "@site/docs/whitepaper/markdown-features.mdx",
+  "sourceDirName": "whitepaper",
+  "slug": "/whitepaper/markdown-features",
+  "permalink": "/docs/whitepaper/markdown-features",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Monetization",
+    "permalink": "/docs/whitepaper/Revenue Model/Monetization"
+  },
+  "next": {
+    "title": "Target Markets",
+    "permalink": "/docs/whitepaper/Overview/TargetMarkets"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "whitepaper/Token/exp copy 3",
+  "title": "exp",
+  "description": "",
+  "source": "@site/docs/whitepaper/Token/exp copy 3.md",
+  "sourceDirName": "whitepaper/Token",
+  "slug": "/whitepaper/Token/exp copy 3",
+  "permalink": "/docs/whitepaper/Token/exp copy 3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "exp",
+    "permalink": "/docs/whitepaper/Token/TokenAllocation"
+  },
+  "next": {
+    "title": "Token Utility",
+    "permalink": "/docs/whitepaper/Token/TokenUtility"
+  }
+}

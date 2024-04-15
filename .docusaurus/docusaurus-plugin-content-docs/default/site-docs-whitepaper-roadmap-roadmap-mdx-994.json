@@ -1,0 +1,27 @@
+{
+  "id": "whitepaper/Roadmap/Roadmap",
+  "title": "Roadmap",
+  "description": "",
+  "source": "@site/docs/whitepaper/Roadmap/Roadmap.mdx",
+  "sourceDirName": "whitepaper/Roadmap",
+  "slug": "/whitepaper/Roadmap/",
+  "permalink": "/docs/whitepaper/Roadmap/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Roadmap"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Competitors",
+    "permalink": "/docs/whitepaper/Overview/Competitors"
+  },
+  "next": {
+    "title": "Web App",
+    "permalink": "/docs/whitepaper/References/WebApp"
+  }
+}
