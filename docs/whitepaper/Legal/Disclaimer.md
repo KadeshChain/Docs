@@ -3,6 +3,9 @@ sidebar_position: 1
 title: 'Disclaimer'
 description: ""
 ---
+<head>
+    <link rel="canonical" href="https://docs.kadeshchain.com/docs/whitepaper/Legal/Disclaimer/" />
+</head>
 <br/><p class="top-img w-20 mb-0 txl"><img src="https://docs.kadeshchain.com/img/kadesh/logo.svg" /></p>
 
 ## GENERAL INFORMATION

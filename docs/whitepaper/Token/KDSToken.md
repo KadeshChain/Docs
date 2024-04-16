@@ -3,6 +3,9 @@ sidebar_position: 1
 title: 'KDS Token'
 description: ""
 ---
+<head>
+    <link rel="canonical" href="https://docs.kadeshchain.com/docs/whitepaper/Token/KDSToken/" />
+</head>
 ## KDS Token
 <p class="top-img w-18 txl"><img src="https://docs.kadeshchain.com/img/kadesh/kds.svg" /></p>
 KDS is a crypto token asset that will be used by KADESH ECOSYSTEM in all projects planned to be made available to end-users. KDS is also intended to be a crypto token that can be used to make commercial payments for a variety of services provided by businesses operating in various fields. Kadesh will support the work of organizations that want to use KDS in their commercial activities and will generally not limit such use. KDS is not intended to constitute securities in any jurisdiction. The statements made here are not intended to be investment advice. Acquiring, buying and, selling decisions regarding KDS are the responsibility of the individual. It is the individual's responsibility to conduct the necessary research into the risks and potential losses or gains associated with these transactions. Kadesh is not liable for any damages or losses that may be incurred.

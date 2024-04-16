@@ -3,6 +3,9 @@ sidebar_position: 1
 title: 'Monetization'
 description: ""
 ---
+<head>
+    <link rel="canonical" href="https://docs.kadeshchain.com/docs/whitepaper/Revenue%20Model/Monetization/" />
+</head>
 ## Monetization
 <h1>Monetization</h1>
 

@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://www.kadeshchain.com/',
+  url: 'https://docs.kadeshchain.com/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -55,13 +55,23 @@ const config = {
           //route: '/api/',
           //spec: 'https://test.kadirguventurk.com/yml/openapi3.yml',
           //spec: 'https://raw.githubusercontent.com/KadirBerat/KadirBerat/main/openapi3.yml',
-          //spec: 'kadeshchain/static/yaml/openapi3.yml',
+          //spec: 'https://docs.kadeshchain.com/yml/kadeshchain.yml',
           spec: 'https://raw.githubusercontent.com/KadirBerat/KadeshYml/main/openapi3.yml',
+          //spec: 'https://docs.kadeshchain.com/yml/openapi3.yml',
         }],
       }
     ],
   ],
   scripts: [
+    // {
+    //   src: 'https://code.jquery.com/jquery-3.7.1.min.js',
+    //   integrity: 'sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=',
+    //   crossOrigin: 'anonymous',
+    //   async: false,
+    // }, 
+    // {
+    //   src: 'https://cdn.jsdelivr.net/npm/@docsearch/js@3',
+    // },
     {
       src: 'https://docs.kadeshchain.com/js/custom.js',
       async: false,
@@ -90,7 +100,6 @@ const config = {
             to: 'https://kadeshchain.com',
             position: 'left',
             label: 'Home',
-            
           },
           {
             type: 'docSidebar',
@@ -133,6 +142,11 @@ const config = {
             to: 'https://t.me/kadeshchain',
             className: 'telegram-link social-link',
           },
+          {
+            type: 'html',
+            position: 'right',
+            value: '<div id="docsearch"></div>',
+          }
         ],
       },
       footer: {
@@ -154,6 +168,14 @@ const config = {
       prism: {
         theme: prismThemes.github,
         //darkTheme: prismThemes.dracula,
+      },
+      algolia: {
+        appId: 'P8L48VCRQH',
+        apiKey: 'a8a771e2ad19b583d319b66ef3c0485c',
+        indexName: 'kadeshchain',
+        contextualSearch: false,
+        searchPagePath: false,
+        container: '#docsearch',
       },
     }),
 };

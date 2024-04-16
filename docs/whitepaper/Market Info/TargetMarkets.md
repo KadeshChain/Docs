@@ -3,6 +3,9 @@ sidebar_position: 1
 title: 'Target Markets'
 description: ""
 ---
+<head>
+    <link rel="canonical" href="https://docs.kadeshchain.com/docs/whitepaper/Market%20Info/TargetMarkets/" />
+</head>
 ## Target Markets
 <h1>Target Markets</h1>
 

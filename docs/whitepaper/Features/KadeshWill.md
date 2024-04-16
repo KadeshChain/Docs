@@ -3,6 +3,9 @@ sidebar_position: 2
 title: 'Kadesh Will'
 description: ""
 ---
+<head>
+    <link rel="canonical" href="https://docs.kadeshchain.com/docs/whitepaper/Features/KadeshWill/" />
+</head>
 ## Kadesh Will
 <h1>Kadesh Will</h1>
 

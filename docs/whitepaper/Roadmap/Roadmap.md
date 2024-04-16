@@ -3,6 +3,9 @@ sidebar_position: 1
 title: 'Roadmap'
 description: ""
 ---
+<head>
+    <link rel="canonical" href="https://docs.kadeshchain.com/docs/whitepaper/Roadmap/" />
+</head>
 ## Roadmap
 <h1>Roadmap</h1>
 

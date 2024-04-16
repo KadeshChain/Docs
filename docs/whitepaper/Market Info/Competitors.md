@@ -3,6 +3,9 @@ sidebar_position: 2
 title: 'Competitors'
 description: ""
 ---
+<head>
+    <link rel="canonical" href="https://docs.kadeshchain.com/docs/whitepaper/Market%20Info/Competitors/" />
+</head>
 ## e-Signature
 <h1>e-Signature</h1>
 

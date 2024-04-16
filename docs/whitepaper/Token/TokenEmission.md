@@ -3,7 +3,9 @@ sidebar_position: 5
 title: 'Token Emission'
 description: ""
 ---
-
+<head>
+    <link rel="canonical" href="https://docs.kadeshchain.com/docs/whitepaper/Token/TokenEmission/" />
+</head>
 ## Token Emission
 <p class="top-img w-18 txl"><img src="https://docs.kadeshchain.com/img/kadesh/kds.svg" /></p>
 

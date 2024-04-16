@@ -3,6 +3,9 @@ sidebar_position: 5
 title: 'Kadesh Wallet'
 description: ""
 ---
+<head>
+    <link rel="canonical" href="https://docs.kadeshchain.com/docs/whitepaper/Features/KadeshWallet/" />
+</head>
 ## Kadesh Wallet
 <h1>Kadesh Wallet</h1>
 

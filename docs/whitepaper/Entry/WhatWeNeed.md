@@ -3,6 +3,10 @@ sidebar_position: 2
 title: 'What We Need'
 description: ""
 ---
+<head>
+    <link rel="canonical" href="https://docs.kadeshchain.com/docs/whitepaper/Entry/WhatWeNeed/" />
+</head>
+
 ## What We Need
 <h1>What We Need?</h1>
 

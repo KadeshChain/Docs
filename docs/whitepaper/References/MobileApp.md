@@ -3,6 +3,9 @@ sidebar_position: 2
 title: 'Mobile App'
 description: ""
 ---
+<head>
+    <link rel="canonical" href="https://docs.kadeshchain.com/docs/whitepaper/References/MobileApp/" />
+</head>
 ## Mobile App
 
 <h1>Mobile App</h1>

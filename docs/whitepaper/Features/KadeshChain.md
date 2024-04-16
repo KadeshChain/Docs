@@ -3,6 +3,9 @@ sidebar_position: 4
 title: 'Kadesh Chain'
 description: ""
 ---
+<head>
+    <link rel="canonical" href="https://docs.kadeshchain.com/docs/whitepaper/Features/KadeshChain/" />
+</head>
 ## Kadesh Chain
 <h1>Kadesh Chain</h1>
 

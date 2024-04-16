@@ -3,6 +3,9 @@ sidebar_position: 1
 title: 'Overview'
 description: ""
 ---
+<head>
+    <link rel="canonical" href="https://docs.kadeshchain.com/docs/Overview/" />
+</head>
 ## Overview
 <h1>Overview</h1>
 

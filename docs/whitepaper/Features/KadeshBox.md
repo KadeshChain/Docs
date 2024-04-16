@@ -3,6 +3,9 @@ sidebar_position: 3
 title: 'Kadesh Box'
 description: ""
 ---
+<head>
+    <link rel="canonical" href="https://docs.kadeshchain.com/docs/whitepaper/Features/KadeshBox/" />
+</head>
 ## Kadesh Box
 <h1>Kadesh Box</h1>
 

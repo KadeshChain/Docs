@@ -3,6 +3,9 @@ sidebar_position: 3
 title: 'Token Flow'
 description: ""
 ---
+<head>
+    <link rel="canonical" href="https://docs.kadeshchain.com/docs/whitepaper/Token/TokenFlow/" />
+</head>
 ## Token Flow
 <h1>Token Flow</h1><br/>
 <!-- <p class="top-img"><img src="https://docs.kadeshchain.com/img/kadesh/tokenflow.svg" /></p> -->

@@ -6,7 +6,7 @@
 export default {
   "title": "Kadesh Docs",
   "favicon": "img/favicon.ico",
-  "url": "https://www.kadeshchain.com",
+  "url": "https://docs.kadeshchain.com",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
@@ -116,6 +116,11 @@ export default {
           "to": "https://t.me/kadeshchain",
           "className": "telegram-link social-link",
           "position": "left"
+        },
+        {
+          "type": "html",
+          "position": "right",
+          "value": "<div id=\"docsearch\"></div>"
         }
       ],
       "hideOnScroll": false
@@ -239,6 +244,15 @@ export default {
           }
         }
       ]
+    },
+    "algolia": {
+      "appId": "P8L48VCRQH",
+      "apiKey": "a8a771e2ad19b583d319b66ef3c0485c",
+      "indexName": "kadeshchain",
+      "contextualSearch": false,
+      "searchPagePath": false,
+      "container": "#docsearch",
+      "searchParameters": {}
     },
     "docs": {
       "versionPersistence": "localStorage",

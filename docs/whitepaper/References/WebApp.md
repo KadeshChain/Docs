@@ -3,6 +3,9 @@ sidebar_position: 1
 title: 'Web App'
 description: ""
 ---
+<head>
+    <link rel="canonical" href="https://docs.kadeshchain.com/docs/whitepaper/References/WebApp/" />
+</head>
 ## Web App
 <h1>Web App</h1>
 

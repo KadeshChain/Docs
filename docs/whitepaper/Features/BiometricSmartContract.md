@@ -3,7 +3,9 @@ sidebar_position: 1
 title: 'Biometric Smart Contract'
 description: ""
 ---
-
+<head>
+    <link rel="canonical" href="https://docs.kadeshchain.com/docs/whitepaper/Features/BiometricSmartContract/" />
+</head>
 ## Biometric Smart Contract (Bio Smart)
 <h1>Biometric Smart Contract (Bio Smart)</h1>
 

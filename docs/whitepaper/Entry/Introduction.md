@@ -3,6 +3,11 @@ sidebar_position: 1
 title: 'Introduction'
 description: ""
 ---
+
+<head>
+    <link rel="canonical" href="https://docs.kadeshchain.com/docs/whitepaper/Entry/Introduction/" />
+</head>
+
 ## Introduction
 
 <p class="top-img w-20 txl"><img src="https://docs.kadeshchain.com/img/kadesh/logo.png" /></p>

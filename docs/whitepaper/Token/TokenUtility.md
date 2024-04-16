@@ -3,6 +3,9 @@ sidebar_position: 2
 title: 'Token Utility'
 description: ""
 ---
+<head>
+    <link rel="canonical" href="https://docs.kadeshchain.com/docs/whitepaper/Token/TokenUtility/" />
+</head>
 ## Token Utility
 <h1 class="mb-0">Token Utility</h1>
 

@@ -17011,6 +17011,7 @@
     }
   },
   "docusaurus-theme-classic": {},
+  "docusaurus-theme-search-algolia": {},
   "docusaurus-theme-redoc": {},
   "docusaurus-bootstrap-plugin": {},
   "docusaurus-mdx-fallback-plugin": {}

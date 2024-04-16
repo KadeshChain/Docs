@@ -27,3 +27,42 @@ for (var i = 0; i < imgList.length; i++) {
     var newSrc = oldSrc.replace(old3, new3);
     img.setAttribute("src", newSrc);
 }
+
+// $(document).ready(function() {
+//     var ds = document.createElement('script');
+//     ds.src = 'https://cdn.jsdelivr.net/npm/@docsearch/js@3';
+//     document.body.append(ds);
+
+//     var custom = `
+//     docsearch({
+
+//         appId: "P8L48VCRQH",
+
+//         apiKey: "a8a771e2ad19b583d319b66ef3c0485c",
+
+//         indexName: "kadeshchain",
+
+//         container: '#docsearch',
+
+//         debug: false 
+
+//       });
+//     `;
+//     $('<script>').html(custom).appendTo('body');
+// });
+
+// $(document).ready(function() {
+//     docsearch({
+
+//         appId: "P8L48VCRQH",
+    
+//         apiKey: "a8a771e2ad19b583d319b66ef3c0485c",
+    
+//         indexName: "kadeshchain",
+    
+//         container: '#docsearch',
+    
+//         debug: false 
+    
+//     });
+// });

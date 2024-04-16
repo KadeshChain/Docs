@@ -3,6 +3,9 @@ sidebar_position: 2
 title: 'Resumes'
 description: ""
 ---
+<head>
+    <link rel="canonical" href="https://docs.kadeshchain.com/docs/whitepaper/Team/Resumes/" />
+</head>
 ## Resumes
 <h1>Core Team</h1>
 
